@@ -1,3 +1,5 @@
-# HTML/CSS LAYOUTS
+# Calculadora em HTML/CSS
 
-### Repositório destinado à hospedagem dos códigos desenvolvidos por mim durante minha aprendizagem sobre desenvolvimento Web.
+### Repositório criado para treinamento
+
+> Calculadora baseada no layout do APP **Deepin-Calculator** *Deepin linux 15.4 *
