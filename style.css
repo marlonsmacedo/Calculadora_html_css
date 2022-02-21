@@ -22,7 +22,7 @@ body {
 .container .display {
     grid-column:  1 / -1;
     background-color: #111111;
-    height: 200px;
+    height: 190px;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
